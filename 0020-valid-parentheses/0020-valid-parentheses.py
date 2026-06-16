@@ -1,34 +1,21 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        d={'}' : '{', ')':'(' , ']':'['}
         stack=[]
-        counter=-1
-        openB=['(','{','[']
         for i in s:
-            if i  in openB:
+            if i in d.values():
                 stack.append(i)
-                counter+=1
-            elif i == '}' :
-                if  counter > -1 and  stack[counter]=='{' :
-                    stack.pop()
-                    counter-=1
-                else:
+            elif i in d:
+                if len(stack)==0:
                     return False
-            elif i == ')':
-                if counter > -1 and  stack[counter]=='('  :
-                    stack.pop()
-                    counter-=1
-                else:
+                x= stack.pop()
+                if x != d[i]:
                     return False
-            elif i == ']':
-                if counter > -1 and stack[counter] == '[' :
-                    stack.pop()
-                    counter-=1
-                else:
-                    return False
-        if len(stack)!=0:
+        if len(stack) !=0:
             return False
         else:
             return True
 
-                 
+
+
         
