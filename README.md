@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CyberSyam007/LeetSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/CyberSyam007/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CyberSyam007/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CyberSyam007/LeetSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CyberSyam007/LeetSolutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/CyberSyam007/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CyberSyam007/LeetSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CyberSyam007/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/CyberSyam007/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/CyberSyam007/LeetSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CyberSyam007/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/CyberSyam007/LeetSolutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/CyberSyam007/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/CyberSyam007/LeetSolutions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
