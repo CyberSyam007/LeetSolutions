@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CyberSyam007/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CyberSyam007/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CyberSyam007/LeetSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CyberSyam007/LeetSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CyberSyam007/LeetSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
