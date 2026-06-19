@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/CyberSyam007/LeetSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CyberSyam007/LeetSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CyberSyam007/LeetSolutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CyberSyam007/LeetSolutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/CyberSyam007/LeetSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/CyberSyam007/LeetSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
