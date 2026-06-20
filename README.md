@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CyberSyam007/LeetSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CyberSyam007/LeetSolutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CyberSyam007/LeetSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CyberSyam007/LeetSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CyberSyam007/LeetSolutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CyberSyam007/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CyberSyam007/LeetSolutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CyberSyam007/LeetSolutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -117,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/CyberSyam007/LeetSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/CyberSyam007/LeetSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/CyberSyam007/LeetSolutions/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
