@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CyberSyam007/LeetSolutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/CyberSyam007/LeetSolutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/CyberSyam007/LeetSolutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
