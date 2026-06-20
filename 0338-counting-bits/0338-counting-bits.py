@@ -3,7 +3,7 @@ class Solution:
 
         def ones(x):
             counter=0
-            for i in range(32):
+            while x>0:
                 if x>0 and x&1!=0:
                     counter+=1
                 x>>=1
