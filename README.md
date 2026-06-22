@@ -132,4 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/CyberSyam007/LeetSolutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/CyberSyam007/LeetSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/CyberSyam007/LeetSolutions/tree/master/0338-counting-bits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/CyberSyam007/LeetSolutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/CyberSyam007/LeetSolutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/CyberSyam007/LeetSolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/CyberSyam007/LeetSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
