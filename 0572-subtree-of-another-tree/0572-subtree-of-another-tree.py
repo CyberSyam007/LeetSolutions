@@ -6,28 +6,11 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        def isSame(root):
+        def Serialize(root):
             if not root:
-                return '#'
-            return str(root.val) + isSame(root.left) + isSame(root.right)
-        
-        x=isSame(subRoot)
-
-        def Traverse(root):
-            if not root:
-                return
-            y=isSame(root)
-            if x==y:
-                return True
+                return 'NULL'
+            return f'^{root.val}${Serialize(root.left)}{Serialize(root.right)}'
+        x=Serialize(subRoot)
+        y=Serialize(root)
+        return x in y 
             
-            return Traverse(root.left) or Traverse(root.right)
-            
-        if Traverse(root)==True:
-            return True
-        else:
-            return False
-        
-
-
-
-        
