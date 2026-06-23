@@ -6,17 +6,14 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        
-        def traverse(tree):
-            if not tree:
-                return ['#']
-            return [str(tree.val)] + traverse(tree.left)+traverse(tree.right)
-        x1=','.join(traverse(p))
-        x2=','.join(traverse(q))
-        return x1==x2
-            
+        def traverse(root):
+            if not root:
+                return '#'
+            return str(root.val) + traverse(root.left) + traverse(root.right)
 
+        x=traverse(p)
+        y=traverse(q)
+        return  x==y
 
-
-        
+                
         
